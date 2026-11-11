@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋 I'm Jeremiah Ojesanmi
 
-<!--
-**jerryseyi/jerryseyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer, Full-Stack Developer, and Founder of JASOT Academy**, with over 10 years of experience designing, developing, and scaling software solutions.
 
-Here are some ideas to get you started:
+My expertise spans **Laravel, PHP, React, Vue.js, JavaScript, Docker, database architecture, and cloud-native technologies**. I enjoy solving complex engineering challenges, designing maintainable systems, and transforming ambitious ideas into reliable digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked on solutions across **fintech, education, event ticketing, and business management**, with a strong focus on software architecture, performance, scalability, and clean code.
+
+Beyond engineering, I'm passionate about **technical education and mentorship**. Through JASOT Academy, I help aspiring developers build practical skills, understand software engineering principles, and grow into confident professionals.
+
+**What drives me:** Building technology that solves real problems, creating products that scale, and empowering the next generation of software engineers.
+
+**Engineering philosophy:** Build thoughtfully. Write maintainable code. Design for scale. Never stop learning.
